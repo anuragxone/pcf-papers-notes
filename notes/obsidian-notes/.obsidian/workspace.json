@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "02df923eb6f86c74",
+        "id": "ba9b4ae51a796a71",
         "type": "tabs",
         "children": [
           {
-            "id": "b6127f18719c27d7",
+            "id": "a15c013592e994a2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dispersion and in Waveguides and Materials.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d8a363c3601ed06a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PCFs and Supercontinuum Generation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PCFs and Supercontinuum Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PCFs and Supercontinuum Generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PCFs and Supercontinuum Generation.md"
+              }
             }
           }
         ]
@@ -138,11 +159,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6127f18719c27d7",
+  "active": "d8a363c3601ed06a",
   "lastOpenFiles": [
-    "PCF Basics.md",
-    "Relevant Mathematical Formulas.md",
+    "papers/Broadband Mid-Infrared Supercontinuum Spectra Spanning 2–15 μm Using As2Se3 Chalcogenide Glass Triangular-Core Graded-Index Photonic Crystal Fiber.md",
+    "Phenomenon.md",
+    "Dispersion and in Waveguides and Materials.md",
+    "Untitled.md",
+    "papers",
     "Conventional OFs vs PCFs.md",
-    "PCFs and Supercontinuum Generation.md"
+    "PCFs and Supercontinuum Generation.md",
+    "ZDW, Pump Wavelength and Pump Power.md",
+    "Normal and Anomalous.md",
+    "Effective Mode Area.md",
+    "Non-linearity of Refractive Index.md",
+    "Effective Mode Index and vs Refractive Index.md",
+    "PCF Basics.md",
+    "Relevant Mathematical Formulas.md"
   ]
 }
