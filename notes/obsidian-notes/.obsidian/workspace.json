@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "320c2a1138cfbd61",
+        "id": "02df923eb6f86c74",
         "type": "tabs",
         "children": [
           {
-            "id": "0b3608188f73385c",
+            "id": "b6127f18719c27d7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,6 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b3608188f73385c",
-  "lastOpenFiles": []
+  "active": "b6127f18719c27d7",
+  "lastOpenFiles": [
+    "PCF Basics.md",
+    "Relevant Mathematical Formulas.md",
+    "Conventional OFs vs PCFs.md",
+    "PCFs and Supercontinuum Generation.md"
+  ]
 }
